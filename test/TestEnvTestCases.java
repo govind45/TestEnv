@@ -1,6 +1,9 @@
 import com.netenrich.*;
 import java.sql.*;
 import static org.junit.Assert.*;
+
+#test
+
 import org.junit.Test;
 public class TestEnvTestCases {
  DatabaseDetails main = new DatabaseDetails();
